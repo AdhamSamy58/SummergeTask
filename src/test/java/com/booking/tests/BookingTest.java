@@ -44,9 +44,10 @@ public class BookingTest {
 
         // Assertions
         SoftAssert softAssert = new SoftAssert();
-        softAssert.assertEquals(reservationPage.getHotelName(), "Tolip Hotel Alexandria", "Hotel name mismatch");
 //        softAssert.assertEquals(bookingDetailsPage.getDisplayedCheckInDate(), checkOut, "Check-in date mismatch");
 //        softAssert.assertEquals(bookingDetailsPage.getDisplayedCheckOutDate(), checkOut, "Check-out date mismatch");
+        softAssert.assertEquals(reservationPage.getHotelName(), "Tolip Hotel Alexandria", "Hotel name mismatch");
+       
         softAssert.assertAll();
     }
 
