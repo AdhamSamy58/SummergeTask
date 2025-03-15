@@ -8,7 +8,7 @@
 
 3. Some parts of the code are hardcoded, or I used shortcuts to meet the deadline.  
 
-4. The task had a **2.5-day deadline**, but I was extremely busy these past couple of days. I want to emphasize that this was very expedited and **not my best work in any way**.  
+4. The task had a **2.5-day deadline**, but I was extremely busy these past couple of days. I want to emphasize that this code was very expedited and **not my best work in any way**.  
 
 5. Two asserts are commented out, but you can un-comment them if needed.  
 
